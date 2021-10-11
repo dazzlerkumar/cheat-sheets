@@ -7,8 +7,7 @@ Add cheat sheets in image format with corresponding source in the relevant folde
 
 If there is a CSS Grid cheat sheet 
 - Save the image in assets folder of relevant directory
-- Create a markdown (.md) file 
-- Place the image link there with image original source
+- Place the image link in SUMMARY.md with image original source 
 - Add Original Author's name (if applicable)
 
 ## Contributing
