@@ -1,5 +1,5 @@
 
 
-![](assets/LearnPine_Grid_CheatSheet.png)
+![](assets/js-cheatsheet1.pdf)
 
-<strong>Source:-</strong>  [CSS Grid Cheat Sheet by Mariana](https://dev.to/simonpaix/css-grid-cheat-sheet-2ll8)
+<strong>Source:-</strong>  [hackr.io](https://hackr.io/blog/javascript-cheat-sheet)
